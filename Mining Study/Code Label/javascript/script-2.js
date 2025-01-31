@@ -106,17 +106,17 @@ let draw = () => {
 // By Github Copilot
 // // Function to draw a line through the winning combination
 // // JavaScript
-// function drawWinLine(startBox, endBox) {
-//     const line = document.querySelector('.line');
-//     const startRect = startBox.getBoundingClientRect();
-//     const endRect = endBox.getBoundingClientRect();
-//     const angle = Math.atan2(endRect.top - startRect.top, endRect.left - startRect.left);
-//     const length = Math.hypot(endRect.left - startRect.left, endRect.top - startRect.top);
+function drawWinLine(startBox, endBox) {
+    const line = document.querySelector('.line');
+    const startRect = startBox.getBoundingClientRect();
+    const endRect = endBox.getBoundingClientRect();
+    const angle = Math.atan2(endRect.top - startRect.top, endRect.left - startRect.left);
+    const length = Math.hypot(endRect.left - startRect.left, endRect.top - startRect.top);
 
-//     line.style.width = `${length}px`;
-//     line.style.transform = `rotate(${angle}rad)`;
-//     line.style.left = `${startRect.left}px`;
-//     line.style.top = `${startRect.top}px`;
-//     line.style.visibility = 'visible';
-// }
+    line.style.width = `${length}px`;
+    line.style.transform = `rotate(${angle}rad)`;
+    line.style.left = `${startRect.left}px`;
+    line.style.top = `${startRect.top}px`;
+    line.style.visibility = 'visible';
+}
 

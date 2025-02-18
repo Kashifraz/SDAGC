@@ -8,18 +8,18 @@ This repository contains the **dataset** of our research study: **How and Why De
 Contains GitHub repository mining data and code files.
 
 ### Subdirectories:
-- **JavaScript/** - JavaScript code files
-- **Python/** - Python code files
-- **TypeScript/** - TypeScript code files
-- **Java/** - Java code files
-- **C++/** - C++ code files
-- **C#/** - C# code files
-- **PHP/** - PHP code files
-- **Go/** - Go code files
-- **Ruby/** - Ruby code files
+- **JavaScript/** - contains JavaScript code files
+- **Python/** - contains Python code files
+- **TypeScript/** - contains TypeScript code files
+- **Java/** - contains Java code files
+- **C++/** - contains C++ code files
+- **C#/** - contains C# code files
+- **PHP/** - contains PHP code files
+- **Go/** - contains Go code files
+- **Ruby/** - contains Ruby code files
 
 ### File:
-- **Code-details.xlsx** - Spreadsheet explaining the details of mining study code files
+- **Code-details.xlsx** - Spreadsheet containing the details of mining study code files
 
 ## 2. Industrial Survey
 Contains responses from the industry survey.

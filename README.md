@@ -1,8 +1,8 @@
 # SDAGC: Self-Declared AI-Generated Code
 This repository contains the **dataset** of our research study: **How and Why Developers Self-Declare Their AI-Generated Code? An Analysis of Practices**. It has two main directories: 
 
-- ***Mining Study*** contains the dataset of the GitHub repository mining.
-- ***Industrial Survey*** contains the dataset of industrial survey responses.
+- ***1. Mining Study*** contains the dataset of the GitHub repository mining.
+- ***2. Industrial Survey*** contains the dataset of industrial survey responses.
 
 ## 1. Mining Study
 Contains GitHub repository mining data and code files.
@@ -19,7 +19,7 @@ Contains GitHub repository mining data and code files.
 - **Ruby/** - Ruby code files
 
 ### File:
-- **Code-details.xlsx** - Spreadsheet with mined code details
+- **Code-details.xlsx** - Spreadsheet explaining the details of mining study code files
 
 ## 2. Industrial Survey
 Contains responses from the industry survey.
@@ -27,4 +27,4 @@ Contains responses from the industry survey.
 ### File:
 - **Survey Responses.xlsx** - Spreadsheet with survey responses
 
-This repo is the replication package for our study.
+This repository is the replication package for our study.

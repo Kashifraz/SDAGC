@@ -26,5 +26,3 @@ Contains responses from the industry survey.
 
 ### File:
 - **Survey Responses.xlsx** - Spreadsheet with survey responses
-
-This repository is the replication package for our study.
